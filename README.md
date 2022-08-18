@@ -8,5 +8,5 @@ A new Flutter project.
 - Open terminal into remote container
 - Execute:
 - $> flutter clean
-- $> flutter run -d web-server
+- $> flutter run -d web-server --web-port 5000
 
